@@ -1,0 +1,125 @@
+1. BDU (Gazipur) *  XXX
+   A) data science
+   B) Software engineering
+
+2.BSMRSTU(Gopalganj) **
+   A)CSE
+   B)EEE
+   C)Civil
+   D)Appl. Chem And Chem Eng.
+   E)Pharmacy
+   F)Biotech and genetic eng>
+   G)Biochem and molecular bio
+ 
+3.BSMRSTUP(Pirojpur) *  XX
+   A)CSE
+
+4.BSMRU(Kishoreganj) *  XX
+   A)CSE
+
+5.BSFMSTU(Jamalpur) *  XX
+   A)CSE
+   B)EEE
+
+6.BRUR(Rangpur)  **  XX
+   A)CSE
+   B)EEE
+
+7.CSTU(Chandpur) *  XX
+   A)CSE
+
+8.CoU(Cumilla) **
+   A)CSE
+   B)Pharmacy
+
+9.HSTU(Dinajpur) ***
+   A)CSE
+   B)EEE
+   C)ME
+   D)CIVIL
+   E)ECE
+
+10.IU(Kushtia) ***
+   A)CSE
+   B)EEE
+   C)Appl. Chem and chemical eng.
+   D)Pharmacy
+   E)Biomedical eng.
+   F)Biotech and genetic eng.
+
+11.JnU(Dhaka)  ***
+   A)CSE
+   B)Pharmacy
+   C)Genetic Eng. and Biotech
+
+12.JUST(Jashore)  ***
+   A)CSE
+   B)EEE
+   C)Chem Eng.
+   D)Biomedical eng.
+   E)Genetic eng and BIotech
+   F)Pharmacy
+
+13.JKKNIU(Mymensingh)  **  XX
+   A)CSE
+   B)EEE
+
+14.KU(Khulna) ***
+   A)CSE
+   B)EEE
+   C)Biotech and genetic eng.
+   D)Pharmacy
+
+15.MBSTU(Tangail)  ***
+   A)CSE
+   B)ME
+   C)Biotech and genetic eng.
+   D)Biochem and molecular bio
+   E)Pharmacy
+
+16.NSTU(Noakhali)  ***
+   A)pharmacy
+   B)App Chem and chemical eng.
+   C)EEE
+   D)Software eng.
+   E)Biotech and genetic eng
+   F)Biochem and molecular bio
+  
+17.PUST(pabna) **
+   A)CSE
+   B)EEE
+   C)Civil
+   D)Pharmacy
+
+18.PSTU(Patuakhali) **
+   A)CSE
+
+19)RMSTU(Rangamati) *  XX
+   A)CSE
+
+20)SUST(Sylhet) ***
+   A)CSE
+   B)Chemical eng and polymer science
+   C)Civil and environmental eng
+   D)EEE
+   E)ME
+   F)Software eng
+   G)Genetic eng and biotechnology
+   H)Biochem and Molecular Biology
+
+21.SHU(Netrokona) * XX
+   A)CSE
+  
+22.SSTU(Sunamganj) * XX
+   A)CSE
+ 
+23.BU(Barishal)  ** 
+   A)CSE
+   B)Biochem and Biotech 
+
+
+
+SUST>HSTU>MBSTU>JUST>NSTU>JnU>KU>IU>PSTU>PUST>CoU>BU>BSMRSTU
+
+
+
